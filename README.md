@@ -1,4 +1,4 @@
-Projet : Simulation de l'Exécution Parallèle de Tâches avec Préemption
+Simulation de l'Exécution Parallèle de Tâches avec Préemption
 
 Réalisé par : Ahmet KALYONCU et Ahlem BELHADJ
 
